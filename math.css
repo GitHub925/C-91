@@ -1,0 +1,53 @@
+.sbody
+{
+	background-image: url("https://th.bing.com/th/id/OIP.iKIEaNemwo16EAsaiExcxAHaE8?w=290&h=193&c=7&o=5&pid=1.7");
+	background-size: cover
+}
+.classity{
+	background-image: url("https://th.bing.com/th/id/OIP.Sb9i40Eh1YK-x0nu-kDKTwHaEm?w=277&h=180&c=7&o=5&pid=1.7");
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+ 
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.mythingy{
+	text-align: center;
+	border-radius: 40px;
+	margin-top: 30px;
+	margin-bottom:10px;
+	margin-left: 375px;
+}
+
+.classclass{
+	font-size: 40px;
+}
